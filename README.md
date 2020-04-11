@@ -1,7 +1,7 @@
 # Mini-Project-3
 # Statistical Calculator with Flask
 
-[![Build Status](https://travis-ci.org/am2892/MiniProject2.svg?branch=master)](https://travis-ci.org/am2892/MiniProject2)
+# **MiniProject3** ![Build Status](https://travis-ci.org/cen24/mini-project-3.svg?branch=master)
 
 #### Created By:
 - Dhrupad Solanki
